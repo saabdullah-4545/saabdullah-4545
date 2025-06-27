@@ -83,6 +83,18 @@
 </p>
 
 ---
+🎮 Level: Intermediate
+💡 Focus: AI + Full Stack Web Dev
+🔥 XP Boost: Learning DSA & Machine Learning daily!
+🚀 Mission: Build Impactful, Intelligent Apps
+---
+  📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1zmQSQ-qVZkUjMVh2ahwzv8-4DmoxqtPR/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-00C853?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
 ### 🕹 Game Mode: Activated
 
@@ -91,3 +103,8 @@
 💡 Focus: AI + Full Stack Web Dev
 🔥 XP Boost: Learning DSA & Machine Learning daily!
 🚀 Mission: Build Impactful, Intelligent Apps
+🎮 Level: Intermediate
+💡 Focus: AI + Full Stack Web Dev
+🔥 XP Boost: Learning DSA & Machine Learning daily!
+🚀 Mission: Build Impactful, Intelligent Apps
+---
